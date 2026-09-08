@@ -6,6 +6,7 @@ author: "editor"
 publishDate: 2026-09-01
 sourceCheckedDate: 2026-09-08
 status: "상시"
+thumb: "aptitude"
 disclaimer: "career"
 tags: ["인적성", "NCS", "필기전형", "취업준비"]
 tldr:

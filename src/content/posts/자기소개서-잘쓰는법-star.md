@@ -6,6 +6,7 @@ author: "editor"
 publishDate: 2026-08-28
 sourceCheckedDate: 2026-09-08
 status: "상시"
+thumb: "letter"
 disclaimer: "career"
 tags: ["자기소개서", "자소서", "STAR기법", "취업준비"]
 tldr:

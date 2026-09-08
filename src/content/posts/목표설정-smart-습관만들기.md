@@ -6,6 +6,7 @@ author: "editor"
 publishDate: 2026-08-20
 sourceCheckedDate: 2026-09-08
 status: "상시"
+thumb: "goals"
 disclaimer: "default"
 tags: ["목표설정", "SMART", "습관", "자기계발"]
 tldr:
